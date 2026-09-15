@@ -22,7 +22,7 @@ WRITEUP.md
 - PyTorch
 
 
-To install numpy: 
+To install Numpy and PyTorch: 
 
 ```
 pip install numpy torch
